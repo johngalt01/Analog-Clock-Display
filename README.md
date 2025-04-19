@@ -7,3 +7,4 @@ SETTIME is a command line that works similar to MS-DOS set the time 24H and the 
 
 Added a GEOFF Terminal version of the Clock. this requires the 2022 Graphics patch to work correctly.
 
+![DSCN6327](https://github.com/user-attachments/assets/c1558601-7234-493d-b2a9-997601ee4d10)
